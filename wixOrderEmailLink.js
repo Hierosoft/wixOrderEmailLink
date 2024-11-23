@@ -4,6 +4,7 @@
 // @version      2024-11-22
 // @description  Generate a mailto link with order# in subject.
 // @author       Hierosoft (Jake Gustafson)
+// @license MIT
 // @match        https://*.wix.com/*order-details*
 // @grant        none
 // @run-at       document-end
